@@ -90,9 +90,13 @@ hero button:hover {
     display: flex;
     gap: 30px;
     justify-content: center;
-    flex-wrap: wrap;
 }   
 
+.icon {
+    display:block;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
 .feature-container article {
     width: 280px;
     padding: 30px;
