@@ -102,3 +102,18 @@ hero button:hover {
     box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
 
+.feature-container h3 {
+    margin-bottom: 15px;
+}
+
+.feature-container p {
+    color: #6b7280;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #0f172a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
