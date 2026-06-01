@@ -79,6 +79,9 @@ hero button:hover {
     padding: 80px 50px;
 }
 
+.brand-name {
+    color: #2563eb;
+}
 .features h2 {
     text-align: center;
     font-size: 36px;
